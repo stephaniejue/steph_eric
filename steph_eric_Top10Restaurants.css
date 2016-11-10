@@ -16,18 +16,20 @@ img {
 h2 {
   color: #ff6cd4;
   text-shadow: 2px 1px #8b1d6b;
-  margin: 10px 10px 0px 10px;
+  margin: 10px 0px 0px 0px;
   font-size: 25px;
 }
 
 footer {
   height: 55px;
-  margin: 25px;
+  margin: 35px 20px 20px 20px;
   text-align: right;
   color: white;
   font-weight: bolder;
   font-family: 'Patua One';
   text-shadow: 2px 1px #8b1d6b;
+  border-top: solid white;
+  padding: 20px 0 0 0;
 }
 
 .wrapper {
@@ -41,6 +43,9 @@ footer {
   font-family: 'Patua One';
   text-shadow: 2px 2px #f2f2f2;
   font-size: 37px;
+  border-bottom: solid white;
+  padding: 0;
+  margin: 40px;
 }
 
 .restaurant {
